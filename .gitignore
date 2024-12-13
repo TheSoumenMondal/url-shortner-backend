@@ -1,0 +1,30 @@
+# Node.js dependencies
+node_modules/
+
+# Logs
+*.log
+
+# Environment variable file
+.env
+
+# Dependency directories
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build directories
+dist/
+build/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# VSCode settings (optional)
+.vscode/
+
+# package-lock.json (optional, can be included if needed for version locking)
+package-lock.json
+
+# Operating system files
+*.swp
